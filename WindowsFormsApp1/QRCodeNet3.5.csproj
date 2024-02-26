@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D1E98F33-7D54-41F3-9725-2CCE07375C7C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>QRCode</RootNamespace>
-    <AssemblyName>QRCode</AssemblyName>
+    <RootNamespace>QRCodeNet35</RootNamespace>
+    <AssemblyName>QRCodeNet35</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

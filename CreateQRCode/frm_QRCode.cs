@@ -63,7 +63,7 @@ namespace CreateQRCode
             var apiRequest = new ApiRequest();
             apiRequest.acqId = Convert.ToInt32(cb_nganhang.SelectedValue.ToString());
             //MessageBox.Show(apiRequest.acqId.ToString());
-            apiRequest.accountNo = long.Parse(txtSTK.Text);
+            apiRequest.accountNo = txtSTK.Text;
             apiRequest.accountName = txtTenTaiKhoan.Text;
             apiRequest.amount = Convert.ToInt32(txtSoTien.Text);
             apiRequest.addInfo = txtNoiDung.Text;

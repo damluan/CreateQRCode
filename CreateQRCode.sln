@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateQRCode", "CreateQRCode\CreateQRCode.csproj", "{70D80BCA-3F57-478B-8643-77404FDB7779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode", "WindowsFormsApp1\QRCode.csproj", "{D1E98F33-7D54-41F3-9725-2CCE07375C7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeNet3.5", "WindowsFormsApp1\QRCodeNet3.5.csproj", "{D1E98F33-7D54-41F3-9725-2CCE07375C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
